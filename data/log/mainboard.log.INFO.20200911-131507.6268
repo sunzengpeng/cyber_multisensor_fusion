@@ -1,0 +1,27 @@
+Log file created at: 2020/09/11 13:15:07
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0911 13:15:07.418709  6268 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0911 13:15:07.418862  6271 processor.cc:41] processor_tid: 6271
+I0911 13:15:07.418915  6272 processor.cc:41] processor_tid: 6272
+I0911 13:15:07.418992  6273 processor.cc:41] processor_tid: 6273
+I0911 13:15:07.419035  6274 processor.cc:41] processor_tid: 6274
+I0911 13:15:07.419075  6275 processor.cc:41] processor_tid: 6275
+I0911 13:15:07.419116  6276 processor.cc:41] processor_tid: 6276
+I0911 13:15:07.419152  6277 processor.cc:41] processor_tid: 6277
+I0911 13:15:07.419224  6278 processor.cc:41] processor_tid: 6278
+I0911 13:15:07.419281  6279 processor.cc:41] processor_tid: 6279
+I0911 13:15:07.419320  6280 processor.cc:41] processor_tid: 6280
+I0911 13:15:07.419360  6281 processor.cc:41] processor_tid: 6281
+I0911 13:15:07.419396  6282 processor.cc:41] processor_tid: 6282
+I0911 13:15:07.419430  6283 processor.cc:41] processor_tid: 6283
+I0911 13:15:07.419471  6284 processor.cc:41] processor_tid: 6284
+I0911 13:15:07.419545  6285 processor.cc:41] processor_tid: 6285
+I0911 13:15:07.419580  6286 processor.cc:41] processor_tid: 6286
+I0911 13:15:07.419591  6268 init.cc:103] Register exit handle succ.
+I0911 13:15:07.439390  6268 module_controller.cc:65] Start initialize dag: /apollo/modules/drivers/velodyne/dag/robosense.dag
+I0911 13:15:07.439512  6268 class_loader.cc:37] Begin LoadLibrary: /apollo/bazel-bin/modules/drivers/velodyne/driver/libvelodyne_driver_component.so
+I0911 13:16:00.466847  6294 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0911 13:16:49.559664  6294 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0911 13:17:09.757625  6294 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0911 13:18:08.287915  6268 mainboard.cc:45] exit mainboard.

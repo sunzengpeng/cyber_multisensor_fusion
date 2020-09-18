@@ -1,0 +1,50 @@
+Log file created at: 2020/09/10 09:41:47
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0910 09:41:47.888478  8845 global_data.cc:155] host ip: 192.168.1.102
+W0910 09:41:47.891171  8845 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0910 09:41:47.891577  8847 processor.cc:41] processor_tid: 8847
+I0910 09:41:47.891814  8848 processor.cc:41] processor_tid: 8848
+I0910 09:41:47.892074  8849 processor.cc:41] processor_tid: 8849
+I0910 09:41:47.892292  8850 processor.cc:41] processor_tid: 8850
+I0910 09:41:47.892421  8851 processor.cc:41] processor_tid: 8851
+I0910 09:41:47.892544  8852 processor.cc:41] processor_tid: 8852
+I0910 09:41:47.892647  8853 processor.cc:41] processor_tid: 8853
+I0910 09:41:47.892746  8854 processor.cc:41] processor_tid: 8854
+I0910 09:41:47.892849  8855 processor.cc:41] processor_tid: 8855
+I0910 09:41:47.892992  8856 processor.cc:41] processor_tid: 8856
+I0910 09:41:47.893113  8857 processor.cc:41] processor_tid: 8857
+I0910 09:41:47.893222  8858 processor.cc:41] processor_tid: 8858
+I0910 09:41:47.893347  8859 processor.cc:41] processor_tid: 8859
+I0910 09:41:47.893450  8860 processor.cc:41] processor_tid: 8860
+I0910 09:41:47.893561  8861 processor.cc:41] processor_tid: 8861
+I0910 09:41:47.893667  8862 processor.cc:41] processor_tid: 8862
+I0910 09:41:47.893687  8845 init.cc:103] Register exit handle succ.
+I0910 09:41:47.907763  8845 talker.cc:47] talker sent a message!
+I0910 09:41:48.907900  8845 talker.cc:47] talker sent a message!
+I0910 09:41:49.907914  8845 talker.cc:47] talker sent a message!
+I0910 09:41:50.907824  8845 talker.cc:47] talker sent a message!
+I0910 09:41:51.907904  8845 talker.cc:47] talker sent a message!
+I0910 09:41:52.907861  8845 talker.cc:47] talker sent a message!
+I0910 09:41:53.907902  8845 talker.cc:47] talker sent a message!
+I0910 09:41:54.907981  8845 talker.cc:47] talker sent a message!
+I0910 09:41:55.907912  8845 talker.cc:47] talker sent a message!
+I0910 09:41:56.907899  8845 talker.cc:47] talker sent a message!
+I0910 09:41:57.921996  8845 talker.cc:47] talker sent a message!
+I0910 09:41:58.908371  8845 talker.cc:47] talker sent a message!
+I0910 09:41:59.908354  8845 talker.cc:47] talker sent a message!
+I0910 09:42:00.908401  8845 talker.cc:47] talker sent a message!
+I0910 09:42:01.907936  8845 talker.cc:47] talker sent a message!
+I0910 09:42:02.908344  8845 talker.cc:47] talker sent a message!
+I0910 09:42:03.907995  8845 talker.cc:47] talker sent a message!
+I0910 09:42:04.908448  8845 talker.cc:47] talker sent a message!
+I0910 09:42:05.907935  8845 talker.cc:47] talker sent a message!
+I0910 09:42:06.907953  8845 talker.cc:47] talker sent a message!
+I0910 09:42:07.907970  8845 talker.cc:47] talker sent a message!
+I0910 09:42:08.908561  8845 talker.cc:47] talker sent a message!
+I0910 09:42:09.908028  8845 talker.cc:47] talker sent a message!
+I0910 09:42:10.907985  8845 talker.cc:47] talker sent a message!
+I0910 09:42:11.907963  8845 talker.cc:47] talker sent a message!
+I0910 09:42:12.908004  8845 talker.cc:47] talker sent a message!
+I0910 09:42:13.907845  8845 talker.cc:47] talker sent a message!
+I0910 09:42:14.907887  8845 talker.cc:47] talker sent a message!

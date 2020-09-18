@@ -1,0 +1,22 @@
+Log file created at: 2020/09/11 14:59:13
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0911 14:59:13.424360 14518 global_data.cc:155] host ip: 192.168.1.113
+W0911 14:59:13.424798 14518 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0911 14:59:13.424888 14520 processor.cc:41] processor_tid: 14520
+I0911 14:59:13.424939 14521 processor.cc:41] processor_tid: 14521
+I0911 14:59:13.425014 14522 processor.cc:41] processor_tid: 14522
+I0911 14:59:13.425055 14523 processor.cc:41] processor_tid: 14523
+I0911 14:59:13.425091 14524 processor.cc:41] processor_tid: 14524
+I0911 14:59:13.425129 14525 processor.cc:41] processor_tid: 14525
+I0911 14:59:13.425179 14526 processor.cc:41] processor_tid: 14526
+I0911 14:59:13.425217 14527 processor.cc:41] processor_tid: 14527
+I0911 14:59:13.425262 14528 processor.cc:41] processor_tid: 14528
+I0911 14:59:13.425328 14529 processor.cc:41] processor_tid: 14529
+I0911 14:59:13.425429 14530 processor.cc:41] processor_tid: 14530
+I0911 14:59:13.425506 14531 processor.cc:41] processor_tid: 14531
+I0911 14:59:13.426802 14532 processor.cc:41] processor_tid: 14532
+I0911 14:59:13.426882 14533 processor.cc:41] processor_tid: 14533
+I0911 14:59:13.426935 14534 processor.cc:41] processor_tid: 14534
+I0911 14:59:13.426997 14535 processor.cc:41] processor_tid: 14535
+I0911 14:59:13.427003 14518 init.cc:103] Register exit handle succ.

@@ -1,0 +1,9 @@
+max_interval_ms: 100
+drop_expired_data : false
+fusion_channel: "/diamond/sensor/lidar/fusion/PointCloud2"
+input_channel: [
+    "/diamond/sensor/lidar/front/PointCloud2",
+    "/diamond/sensor/lidar/rear/PointCloud2"
+]
+# wait time after main channel receive msg, unit second
+wait_time_s: 0.2

@@ -1,0 +1,25 @@
+Log file created at: 2020/09/09 09:29:53
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0909 09:29:53.152127 25441 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0909 09:29:53.172971 25444 processor.cc:41] processor_tid: 25444
+I0909 09:29:53.173249 25445 processor.cc:41] processor_tid: 25445
+I0909 09:29:53.173476 25446 processor.cc:41] processor_tid: 25446
+I0909 09:29:53.175339 25447 processor.cc:41] processor_tid: 25447
+I0909 09:29:53.176676 25448 processor.cc:41] processor_tid: 25448
+I0909 09:29:53.179275 25449 processor.cc:41] processor_tid: 25449
+I0909 09:29:53.179522 25450 processor.cc:41] processor_tid: 25450
+I0909 09:29:53.181977 25451 processor.cc:41] processor_tid: 25451
+I0909 09:29:53.182232 25452 processor.cc:41] processor_tid: 25452
+I0909 09:29:53.183276 25453 processor.cc:41] processor_tid: 25453
+I0909 09:29:53.184300 25454 processor.cc:41] processor_tid: 25454
+I0909 09:29:53.184589 25455 processor.cc:41] processor_tid: 25455
+I0909 09:29:53.186898 25456 processor.cc:41] processor_tid: 25456
+I0909 09:29:53.187477 25457 processor.cc:41] processor_tid: 25457
+I0909 09:29:53.191254 25458 processor.cc:41] processor_tid: 25458
+I0909 09:29:53.192052 25459 processor.cc:41] processor_tid: 25459
+I0909 09:29:53.239460 25441 init.cc:103] Register exit handle succ.
+I0909 09:29:53.260702 25441 module_controller.cc:65] Start initialize dag: /apollo/cyber/examples/common_component_example/common.dag
+E0909 09:29:53.261096 25441 module_controller.cc:87] Path does not exist: /apollo/bazel-bin/cyber/examples/common_component_example/libcommon_component_example.so
+E0909 09:29:53.261246 25441 module_controller.cc:67] Failed to load module: /apollo/cyber/examples/common_component_example/common.dag
+E0909 09:29:53.261292 25441 mainboard.cc:39] module start error.

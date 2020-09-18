@@ -1,0 +1,24 @@
+Log file created at: 2020/09/10 10:11:47
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0910 10:11:47.411698 11867 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0910 10:11:47.411818 11869 processor.cc:41] processor_tid: 11869
+I0910 10:11:47.411880 11870 processor.cc:41] processor_tid: 11870
+I0910 10:11:47.411927 11871 processor.cc:41] processor_tid: 11871
+I0910 10:11:47.411968 11872 processor.cc:41] processor_tid: 11872
+I0910 10:11:47.412016 11873 processor.cc:41] processor_tid: 11873
+I0910 10:11:47.412055 11874 processor.cc:41] processor_tid: 11874
+I0910 10:11:47.412093 11875 processor.cc:41] processor_tid: 11875
+I0910 10:11:47.412130 11876 processor.cc:41] processor_tid: 11876
+I0910 10:11:47.412174 11877 processor.cc:41] processor_tid: 11877
+I0910 10:11:47.412221 11878 processor.cc:41] processor_tid: 11878
+I0910 10:11:47.412259 11879 processor.cc:41] processor_tid: 11879
+I0910 10:11:47.412297 11880 processor.cc:41] processor_tid: 11880
+I0910 10:11:47.412334 11881 processor.cc:41] processor_tid: 11881
+I0910 10:11:47.412371 11882 processor.cc:41] processor_tid: 11882
+I0910 10:11:47.412411 11883 processor.cc:41] processor_tid: 11883
+I0910 10:11:47.412453 11884 processor.cc:41] processor_tid: 11884
+I0910 10:11:47.412463 11867 init.cc:103] Register exit handle succ.
+I0910 10:11:47.414230 11867 module_controller.cc:65] Start initialize dag: /apollo/modules/drivers/velodyne/dag/robosense.dag
+I0910 10:11:47.414317 11867 class_loader.cc:37] Begin LoadLibrary: /apollo/bazel-bin/modules/drivers/velodyne/driver/libvelodyne_driver_component.so
+I0910 10:13:21.697794 11867 mainboard.cc:45] exit mainboard.

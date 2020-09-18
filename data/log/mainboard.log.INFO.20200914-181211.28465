@@ -1,0 +1,27 @@
+Log file created at: 2020/09/14 18:12:11
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0914 18:12:11.908121 28465 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0914 18:12:11.908716 28467 processor.cc:41] processor_tid: 28467
+I0914 18:12:11.909302 28468 processor.cc:41] processor_tid: 28468
+I0914 18:12:11.910004 28469 processor.cc:41] processor_tid: 28469
+I0914 18:12:11.910320 28470 processor.cc:41] processor_tid: 28470
+I0914 18:12:11.910595 28471 processor.cc:41] processor_tid: 28471
+I0914 18:12:11.910867 28472 processor.cc:41] processor_tid: 28472
+I0914 18:12:11.911080 28473 processor.cc:41] processor_tid: 28473
+I0914 18:12:11.911259 28474 processor.cc:41] processor_tid: 28474
+I0914 18:12:11.911464 28475 processor.cc:41] processor_tid: 28475
+I0914 18:12:11.911641 28476 processor.cc:41] processor_tid: 28476
+I0914 18:12:11.911823 28477 processor.cc:41] processor_tid: 28477
+I0914 18:12:11.912091 28478 processor.cc:41] processor_tid: 28478
+I0914 18:12:11.912271 28479 processor.cc:41] processor_tid: 28479
+I0914 18:12:11.912451 28480 processor.cc:41] processor_tid: 28480
+I0914 18:12:11.912665 28481 processor.cc:41] processor_tid: 28481
+I0914 18:12:11.913015 28482 processor.cc:41] processor_tid: 28482
+I0914 18:12:11.913061 28465 init.cc:103] Register exit handle succ.
+I0914 18:12:11.967945 28465 module_controller.cc:65] Start initialize dag: /apollo/modules/drivers/velodyne/dag/robosense.dag
+I0914 18:12:11.968360 28465 class_loader.cc:37] Begin LoadLibrary: /apollo/bazel-bin/modules/drivers/velodyne/driver/libvelodyne_driver_component.so
+I0914 18:13:11.272681 28490 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 18:15:36.758059 28490 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 18:17:14.451506 28490 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 18:17:36.123724 28465 mainboard.cc:45] exit mainboard.

@@ -1,0 +1,25 @@
+Log file created at: 2020/09/14 18:17:14
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0914 18:17:14.368641 29881 global_data.cc:155] host ip: 192.168.1.68
+W0914 18:17:14.369122 29881 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0914 18:17:14.369261 29885 processor.cc:41] processor_tid: 29885
+I0914 18:17:14.369326 29886 processor.cc:41] processor_tid: 29886
+I0914 18:17:14.369369 29887 processor.cc:41] processor_tid: 29887
+I0914 18:17:14.369431 29888 processor.cc:41] processor_tid: 29888
+I0914 18:17:14.369463 29889 processor.cc:41] processor_tid: 29889
+I0914 18:17:14.369529 29890 processor.cc:41] processor_tid: 29890
+I0914 18:17:14.369776 29891 processor.cc:41] processor_tid: 29891
+I0914 18:17:14.369823 29892 processor.cc:41] processor_tid: 29892
+I0914 18:17:14.369865 29893 processor.cc:41] processor_tid: 29893
+I0914 18:17:14.369899 29894 processor.cc:41] processor_tid: 29894
+I0914 18:17:14.369940 29895 processor.cc:41] processor_tid: 29895
+I0914 18:17:14.369972 29896 processor.cc:41] processor_tid: 29896
+I0914 18:17:14.370954 29897 processor.cc:41] processor_tid: 29897
+I0914 18:17:14.370996 29898 processor.cc:41] processor_tid: 29898
+I0914 18:17:14.371191 29899 processor.cc:41] processor_tid: 29899
+I0914 18:17:14.371234 29900 processor.cc:41] processor_tid: 29900
+I0914 18:17:14.371243 29881 init.cc:103] Register exit handle succ.
+I0914 18:17:14.376853 29881 scheduler.cc:54] create croutine: listener_/diamond/sensor/lidar/front/PointCloud2
+W0914 18:17:18.471891 29887 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[7] pre_index[31] current_index[38] 
+W0914 18:17:21.735719 29888 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[10] pre_index[61] current_index[71] 

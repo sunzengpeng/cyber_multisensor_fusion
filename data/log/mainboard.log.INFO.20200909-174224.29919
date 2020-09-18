@@ -1,0 +1,26 @@
+Log file created at: 2020/09/09 17:42:24
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0909 17:42:24.261528 29919 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0909 17:42:24.261682 29921 processor.cc:41] processor_tid: 29921
+I0909 17:42:24.261739 29922 processor.cc:41] processor_tid: 29922
+I0909 17:42:24.261802 29923 processor.cc:41] processor_tid: 29923
+I0909 17:42:24.261855 29924 processor.cc:41] processor_tid: 29924
+I0909 17:42:24.261906 29925 processor.cc:41] processor_tid: 29925
+I0909 17:42:24.262004 29926 processor.cc:41] processor_tid: 29926
+I0909 17:42:24.262050 29927 processor.cc:41] processor_tid: 29927
+I0909 17:42:24.262090 29928 processor.cc:41] processor_tid: 29928
+I0909 17:42:24.262145 29929 processor.cc:41] processor_tid: 29929
+I0909 17:42:24.262197 29930 processor.cc:41] processor_tid: 29930
+I0909 17:42:24.262235 29931 processor.cc:41] processor_tid: 29931
+I0909 17:42:24.262274 29932 processor.cc:41] processor_tid: 29932
+I0909 17:42:24.262320 29933 processor.cc:41] processor_tid: 29933
+I0909 17:42:24.262356 29934 processor.cc:41] processor_tid: 29934
+I0909 17:42:24.262395 29935 processor.cc:41] processor_tid: 29935
+I0909 17:42:24.262432 29936 processor.cc:41] processor_tid: 29936
+I0909 17:42:24.262444 29919 init.cc:103] Register exit handle succ.
+I0909 17:42:24.277746 29919 module_controller.cc:65] Start initialize dag: /apollo/modules/drivers/robosense/dag/rs16.dag
+I0909 17:42:24.277864 29919 class_loader.cc:37] Begin LoadLibrary: /apollo/bazel-bin/modules/drivers/robosense/librobosense_driver_component.so
+E0909 17:42:24.326306 29919 module_controller.cc:87] Path does not exist: /apollo/bazel-bin/modules/drivers/velodyne/compensator/libvelodyne_compensator_component.so
+E0909 17:42:24.326354 29919 module_controller.cc:67] Failed to load module: /apollo/modules/drivers/robosense/dag/rs16.dag
+E0909 17:42:24.436794 29919 mainboard.cc:39] module start error.

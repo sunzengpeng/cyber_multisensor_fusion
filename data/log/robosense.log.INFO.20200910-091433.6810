@@ -1,0 +1,4 @@
+Log file created at: 2020/09/10 09:14:33
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0910 09:14:33.287487  6810 class_loader_utility.h:78] registerclass:RobosenseComponent,apollo::cyber::ComponentBase,/apollo/bazel-bin/modules/drivers/robosense/librobosense_driver_component.so

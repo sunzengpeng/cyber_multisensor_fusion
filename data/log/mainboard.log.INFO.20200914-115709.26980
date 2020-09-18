@@ -1,0 +1,29 @@
+Log file created at: 2020/09/14 11:57:09
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0914 11:57:09.496855 26980 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0914 11:57:09.497053 26982 processor.cc:41] processor_tid: 26982
+I0914 11:57:09.497149 26983 processor.cc:41] processor_tid: 26983
+I0914 11:57:09.497234 26984 processor.cc:41] processor_tid: 26984
+I0914 11:57:09.497313 26985 processor.cc:41] processor_tid: 26985
+I0914 11:57:09.497360 26986 processor.cc:41] processor_tid: 26986
+I0914 11:57:09.497447 26987 processor.cc:41] processor_tid: 26987
+I0914 11:57:09.497490 26988 processor.cc:41] processor_tid: 26988
+I0914 11:57:09.497577 26989 processor.cc:41] processor_tid: 26989
+I0914 11:57:09.497628 26990 processor.cc:41] processor_tid: 26990
+I0914 11:57:09.497705 26991 processor.cc:41] processor_tid: 26991
+I0914 11:57:09.497789 26992 processor.cc:41] processor_tid: 26992
+I0914 11:57:09.497834 26993 processor.cc:41] processor_tid: 26993
+I0914 11:57:09.497916 26994 processor.cc:41] processor_tid: 26994
+I0914 11:57:09.497965 26995 processor.cc:41] processor_tid: 26995
+I0914 11:57:09.498018 26996 processor.cc:41] processor_tid: 26996
+I0914 11:57:09.498119 26997 processor.cc:41] processor_tid: 26997
+I0914 11:57:09.498131 26980 init.cc:103] Register exit handle succ.
+I0914 11:57:09.518554 26980 module_controller.cc:65] Start initialize dag: /apollo/modules/drivers/velodyne/dag/robosense.dag
+I0914 11:57:09.518740 26980 class_loader.cc:37] Begin LoadLibrary: /apollo/bazel-bin/modules/drivers/velodyne/driver/libvelodyne_driver_component.so
+I0914 11:58:02.888491 27005 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 12:02:01.237200 27005 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 12:07:22.988885 27005 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 12:09:26.282126 27005 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 12:11:43.474900 27005 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.
+I0914 15:36:14.655325 27005 segment.cc:51] msg_size: 806454 larger than current shm_buffer_size: 16384 , need recreate.

@@ -1,0 +1,28 @@
+Log file created at: 2020/09/14 12:11:43
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0914 12:11:43.401465 30276 global_data.cc:155] host ip: 192.168.1.68
+W0914 12:11:43.402093 30276 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0914 12:11:43.402206 30280 processor.cc:41] processor_tid: 30280
+I0914 12:11:43.402263 30281 processor.cc:41] processor_tid: 30281
+I0914 12:11:43.402312 30282 processor.cc:41] processor_tid: 30282
+I0914 12:11:43.402365 30283 processor.cc:41] processor_tid: 30283
+I0914 12:11:43.402418 30284 processor.cc:41] processor_tid: 30284
+I0914 12:11:43.402470 30285 processor.cc:41] processor_tid: 30285
+I0914 12:11:43.402514 30286 processor.cc:41] processor_tid: 30286
+I0914 12:11:43.402561 30287 processor.cc:41] processor_tid: 30287
+I0914 12:11:43.402612 30288 processor.cc:41] processor_tid: 30288
+I0914 12:11:43.403235 30289 processor.cc:41] processor_tid: 30289
+I0914 12:11:43.403403 30290 processor.cc:41] processor_tid: 30290
+I0914 12:11:43.403465 30291 processor.cc:41] processor_tid: 30291
+I0914 12:11:43.403512 30292 processor.cc:41] processor_tid: 30292
+I0914 12:11:43.403554 30293 processor.cc:41] processor_tid: 30293
+I0914 12:11:43.403602 30294 processor.cc:41] processor_tid: 30294
+I0914 12:11:43.403642 30295 processor.cc:41] processor_tid: 30295
+I0914 12:11:43.403648 30276 init.cc:103] Register exit handle succ.
+I0914 12:11:43.410218 30276 scheduler.cc:54] create croutine: listener_/diamond/sensor/lidar/front/PointCloud2
+W0914 12:11:50.417645 30289 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[3] pre_index[65] current_index[68] 
+W0914 12:11:58.544826 30294 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[20] pre_index[129] current_index[149] 
+W0914 12:12:06.038286 30289 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[5] pre_index[219] current_index[224] 
+W0914 12:12:11.051115 30281 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[45] pre_index[229] current_index[274] 
+W0914 12:12:11.717871 30285 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[2] pre_index[279] current_index[281] 

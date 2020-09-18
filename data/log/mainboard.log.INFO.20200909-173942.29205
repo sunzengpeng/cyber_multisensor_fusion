@@ -1,0 +1,29 @@
+Log file created at: 2020/09/09 17:39:42
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0909 17:39:42.920667 29205 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0909 17:39:42.920792 29207 processor.cc:41] processor_tid: 29207
+I0909 17:39:42.920856 29208 processor.cc:41] processor_tid: 29208
+I0909 17:39:42.920902 29209 processor.cc:41] processor_tid: 29209
+I0909 17:39:42.920948 29210 processor.cc:41] processor_tid: 29210
+I0909 17:39:42.920990 29211 processor.cc:41] processor_tid: 29211
+I0909 17:39:42.921037 29212 processor.cc:41] processor_tid: 29212
+I0909 17:39:42.921082 29213 processor.cc:41] processor_tid: 29213
+I0909 17:39:42.921145 29214 processor.cc:41] processor_tid: 29214
+I0909 17:39:42.921196 29215 processor.cc:41] processor_tid: 29215
+I0909 17:39:42.921237 29216 processor.cc:41] processor_tid: 29216
+I0909 17:39:42.921277 29217 processor.cc:41] processor_tid: 29217
+I0909 17:39:42.921315 29218 processor.cc:41] processor_tid: 29218
+I0909 17:39:42.921358 29219 processor.cc:41] processor_tid: 29219
+I0909 17:39:42.921402 29220 processor.cc:41] processor_tid: 29220
+I0909 17:39:42.921440 29221 processor.cc:41] processor_tid: 29221
+I0909 17:39:42.921481 29222 processor.cc:41] processor_tid: 29222
+I0909 17:39:42.921492 29205 init.cc:103] Register exit handle succ.
+E0909 17:39:42.921523 29205 file.cc:73] Failed to open file /apollo/cyber/dag/rs16.dag in text mode.
+E0909 17:39:42.921569 29205 file.cc:99] Failed to open file /apollo/cyber/dag/rs16.dag in binary mode.
+I0909 17:39:42.933815 29205 module_controller.cc:65] Start initialize dag: /apollo/cyber/dag/rs16.dag
+E0909 17:39:42.933876 29205 file.cc:73] Failed to open file /apollo/cyber/dag/rs16.dag in text mode.
+E0909 17:39:42.933917 29205 file.cc:99] Failed to open file /apollo/cyber/dag/rs16.dag in binary mode.
+E0909 17:39:42.933955 29205 module_controller.cc:119] Get proto failed, file: /apollo/cyber/dag/rs16.dag
+E0909 17:39:42.933974 29205 module_controller.cc:67] Failed to load module: /apollo/cyber/dag/rs16.dag
+E0909 17:39:42.933991 29205 mainboard.cc:39] module start error.

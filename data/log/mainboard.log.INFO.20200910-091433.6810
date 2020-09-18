@@ -1,0 +1,24 @@
+Log file created at: 2020/09/10 09:14:33
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0910 09:14:33.258798  6810 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0910 09:14:33.258917  6812 processor.cc:41] processor_tid: 6812
+I0910 09:14:33.258975  6813 processor.cc:41] processor_tid: 6813
+I0910 09:14:33.259016  6814 processor.cc:41] processor_tid: 6814
+I0910 09:14:33.259068  6815 processor.cc:41] processor_tid: 6815
+I0910 09:14:33.259110  6816 processor.cc:41] processor_tid: 6816
+I0910 09:14:33.259163  6817 processor.cc:41] processor_tid: 6817
+I0910 09:14:33.259205  6818 processor.cc:41] processor_tid: 6818
+I0910 09:14:33.259245  6819 processor.cc:41] processor_tid: 6819
+I0910 09:14:33.259289  6820 processor.cc:41] processor_tid: 6820
+I0910 09:14:33.259332  6821 processor.cc:41] processor_tid: 6821
+I0910 09:14:33.259379  6822 processor.cc:41] processor_tid: 6822
+I0910 09:14:33.259418  6823 processor.cc:41] processor_tid: 6823
+I0910 09:14:33.259462  6824 processor.cc:41] processor_tid: 6824
+I0910 09:14:33.259510  6825 processor.cc:41] processor_tid: 6825
+I0910 09:14:33.259552  6826 processor.cc:41] processor_tid: 6826
+I0910 09:14:33.259589  6827 processor.cc:41] processor_tid: 6827
+I0910 09:14:33.259601  6810 init.cc:103] Register exit handle succ.
+I0910 09:14:33.261476  6810 module_controller.cc:65] Start initialize dag: /apollo/modules/drivers/robosense/dag/rs16.dag
+I0910 09:14:33.261569  6810 class_loader.cc:37] Begin LoadLibrary: /apollo/bazel-bin/modules/drivers/robosense/librobosense_driver_component.so
+I0910 09:31:07.920605  6810 mainboard.cc:45] exit mainboard.

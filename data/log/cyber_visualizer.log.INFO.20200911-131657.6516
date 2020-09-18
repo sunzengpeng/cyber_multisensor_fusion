@@ -1,0 +1,25 @@
+Log file created at: 2020/09/11 13:16:57
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0911 13:16:57.080076  6516 global_data.cc:155] host ip: 192.168.1.68
+W0911 13:16:57.080616  6516 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0911 13:16:57.080749  6520 processor.cc:41] processor_tid: 6520
+I0911 13:16:57.080824  6521 processor.cc:41] processor_tid: 6521
+I0911 13:16:57.080870  6522 processor.cc:41] processor_tid: 6522
+I0911 13:16:57.080947  6523 processor.cc:41] processor_tid: 6523
+I0911 13:16:57.080991  6524 processor.cc:41] processor_tid: 6524
+I0911 13:16:57.081061  6525 processor.cc:41] processor_tid: 6525
+I0911 13:16:57.081115  6526 processor.cc:41] processor_tid: 6526
+I0911 13:16:57.081184  6527 processor.cc:41] processor_tid: 6527
+I0911 13:16:57.081233  6528 processor.cc:41] processor_tid: 6528
+I0911 13:16:57.081297  6529 processor.cc:41] processor_tid: 6529
+I0911 13:16:57.081387  6530 processor.cc:41] processor_tid: 6530
+I0911 13:16:57.081825  6531 processor.cc:41] processor_tid: 6531
+I0911 13:16:57.082317  6532 processor.cc:41] processor_tid: 6532
+I0911 13:16:57.082672  6533 processor.cc:41] processor_tid: 6533
+I0911 13:16:57.082736  6534 processor.cc:41] processor_tid: 6534
+I0911 13:16:57.082820  6516 init.cc:103] Register exit handle succ.
+I0911 13:16:57.082813  6535 processor.cc:41] processor_tid: 6535
+I0911 13:17:09.693744  6516 scheduler.cc:54] create croutine: Visualizer-PointCloud2_/diamond/sensor/lidar/front/PointCloud2
+W0911 13:17:51.527240  6526 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[10] pre_index[408] current_index[418] 
+I0911 13:18:00.386973  6516 classic_context.cc:111] waiting for task Visualizer-PointCloud2_/diamond/sensor/lidar/front/PointCloud2 completion

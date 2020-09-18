@@ -1,0 +1,10 @@
+module_config {
+    module_library : "/apollo/bazel-bin/modules/control/libcontrol_component.so"
+
+    components {
+        class_name : "ControlComponent"
+        config {
+            name: "control"
+        }
+    }
+}

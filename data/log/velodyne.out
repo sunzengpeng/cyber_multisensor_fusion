@@ -1,0 +1,12 @@
+[[1;32mcyber_launch_28909[0m] [1;32mINFO Launch file [/apollo/modules/drivers/velodyne/launch/velodyne.launch][0m
+[[1;32mcyber_launch_28909[0m] [1;32mINFO ========================================================================================================================[0m
+[[1;32mcyber_launch_28909[0m] [1;32mINFO Load module [velodyne] library: [velodyne] [CYBER_DEFAULT] conf: [/apollo/modules/drivers/velodyne/dag/velodyne.dag] exception_handler: [][0m
+[[1;32mcyber_launch_28909[0m] [1;32mINFO Start process [velodyne] successfully. pid: 28914[0m
+[[1;32mcyber_launch_28909[0m] [1;32mINFO ------------------------------------------------------------------------------------------------------------------------[0m
+[[1;34mvelodyne[0m] [1;34m WARNING: Logging before InitGoogleLogging() is written to STDERR[0m
+[[1;34mvelodyne[0m] [1;34m I0909 17:25:11.265470 28914 module_argument.cc:81] []command: mainboard -d /apollo/modules/drivers/velodyne/dag/velodyne.dag -p velodyne -s CYBER_DEFAULT [0m
+[[1;34mvelodyne[0m] [1;34m I0909 17:25:11.266161 28914 global_data.cc:155] []host ip: 192.168.1.102[0m
+[[1;34mvelodyne[0m] [1;34m I0909 17:25:11.320053 28914 module_argument.cc:57] []binary_name_ is mainboard, process_group_ is velodyne, has 1 dag conf[0m
+[[1;34mvelodyne[0m] [1;34m I0909 17:25:11.320106 28914 module_argument.cc:60] []dag_conf: /apollo/modules/drivers/velodyne/dag/velodyne.dag[0m
+[[1;34mvelodyne[0m] [1;34m [0;31mE0909 17:25:11.977455 28914 module_controller.cc:87] [mainboard]Path does not exist: /apollo/bazel-bin/modules/drivers/velodyne/parser/libvelodyne_convert_component.so[0m
+[[1;34mvelodyne[0m] [1;34m [m[0;31mE0909 17:25:11.977612 28914 module_controller.cc:67] [mainboard]Failed to load module: /apollo/modules/drivers/velodyne/dag/velodyne.dag[0m

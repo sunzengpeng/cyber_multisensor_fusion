@@ -1,0 +1,38 @@
+Log file created at: 2020/09/15 11:15:55
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0915 11:15:55.595515 22165 global_data.cc:155] host ip: 192.168.1.68
+W0915 11:15:55.596072 22165 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0915 11:15:55.596187 22169 processor.cc:41] processor_tid: 22169
+I0915 11:15:55.596360 22170 processor.cc:41] processor_tid: 22170
+I0915 11:15:55.596482 22171 processor.cc:41] processor_tid: 22171
+I0915 11:15:55.596557 22172 processor.cc:41] processor_tid: 22172
+I0915 11:15:55.596607 22173 processor.cc:41] processor_tid: 22173
+I0915 11:15:55.596652 22174 processor.cc:41] processor_tid: 22174
+I0915 11:15:55.596730 22175 processor.cc:41] processor_tid: 22175
+I0915 11:15:55.596827 22176 processor.cc:41] processor_tid: 22176
+I0915 11:15:55.596873 22177 processor.cc:41] processor_tid: 22177
+I0915 11:15:55.596921 22178 processor.cc:41] processor_tid: 22178
+I0915 11:15:55.596963 22179 processor.cc:41] processor_tid: 22179
+I0915 11:15:55.597007 22180 processor.cc:41] processor_tid: 22180
+I0915 11:15:55.597092 22181 processor.cc:41] processor_tid: 22181
+I0915 11:15:55.597141 22182 processor.cc:41] processor_tid: 22182
+I0915 11:15:55.597190 22183 processor.cc:41] processor_tid: 22183
+I0915 11:15:55.597273 22184 processor.cc:41] processor_tid: 22184
+I0915 11:15:55.597280 22165 init.cc:103] Register exit handle succ.
+I0915 11:15:55.602708 22165 scheduler.cc:54] create croutine: listener_/diamond/sensor/lidar/front/PointCloud2
+W0915 11:16:03.069128 22172 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[11] pre_index[61] current_index[72] 
+W0915 11:16:04.168129 22182 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[6] pre_index[77] current_index[83] 
+W0915 11:16:05.449851 22177 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[7] pre_index[89] current_index[96] 
+W0915 11:16:06.366096 22176 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[3] pre_index[102] current_index[105] 
+W0915 11:16:07.281316 22171 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[5] pre_index[110] current_index[115] 
+W0915 11:16:13.576306 22182 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[44] pre_index[134] current_index[178] 
+W0915 11:16:15.074550 22181 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[10] pre_index[183] current_index[193] 
+W0915 11:16:16.823899 22170 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[12] pre_index[198] current_index[210] 
+W0915 11:16:19.804425 22177 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[25] pre_index[215] current_index[240] 
+W0915 11:16:21.236444 22183 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[9] pre_index[245] current_index[254] 
+W0915 11:16:26.714756 22173 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[51] pre_index[258] current_index[309] 
+W0915 11:16:31.843736 22184 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[10] pre_index[350] current_index[360] 
+W0915 11:16:39.804194 22169 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[7] pre_index[433] current_index[440] 
+W0915 11:16:41.369161 22173 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[7] pre_index[448] current_index[455] 
+W0915 11:16:46.265202 22181 channel_buffer.h:70] channel[/diamond/sensor/lidar/front/PointCloud2] read buffer overflow, drop_message[12] pre_index[492] current_index[504] 

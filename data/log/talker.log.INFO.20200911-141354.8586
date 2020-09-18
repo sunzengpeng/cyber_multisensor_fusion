@@ -1,0 +1,26 @@
+Log file created at: 2020/09/11 14:13:54
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0911 14:13:54.827746  8586 global_data.cc:155] host ip: 192.168.1.68
+W0911 14:13:54.828158  8586 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0911 14:13:54.828235  8588 processor.cc:41] processor_tid: 8588
+I0911 14:13:54.828279  8589 processor.cc:41] processor_tid: 8589
+I0911 14:13:54.828320  8590 processor.cc:41] processor_tid: 8590
+I0911 14:13:54.828397  8591 processor.cc:41] processor_tid: 8591
+I0911 14:13:54.828471  8592 processor.cc:41] processor_tid: 8592
+I0911 14:13:54.828503  8593 processor.cc:41] processor_tid: 8593
+I0911 14:13:54.828534  8594 processor.cc:41] processor_tid: 8594
+I0911 14:13:54.828564  8595 processor.cc:41] processor_tid: 8595
+I0911 14:13:54.828594  8596 processor.cc:41] processor_tid: 8596
+I0911 14:13:54.828625  8597 processor.cc:41] processor_tid: 8597
+I0911 14:13:54.828683  8598 processor.cc:41] processor_tid: 8598
+I0911 14:13:54.828716  8599 processor.cc:41] processor_tid: 8599
+I0911 14:13:54.828749  8600 processor.cc:41] processor_tid: 8600
+I0911 14:13:54.828905  8601 processor.cc:41] processor_tid: 8601
+I0911 14:13:54.828935  8602 processor.cc:41] processor_tid: 8602
+I0911 14:13:54.829003  8603 processor.cc:41] processor_tid: 8603
+I0911 14:13:54.829010  8586 init.cc:103] Register exit handle succ.
+I0911 14:13:54.833815  8586 talker.cc:47] talker sent a message!
+I0911 14:13:55.833892  8586 talker.cc:47] talker sent a message!
+I0911 14:13:56.833932  8586 talker.cc:47] talker sent a message!
+I0911 14:13:57.833922  8586 talker.cc:47] talker sent a message!

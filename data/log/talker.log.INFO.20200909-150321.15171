@@ -1,0 +1,158 @@
+Log file created at: 2020/09/09 15:03:21
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0909 15:03:21.829993 15171 global_data.cc:155] host ip: 192.168.1.113
+W0909 15:03:21.830595 15171 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0909 15:03:21.830734 15173 processor.cc:41] processor_tid: 15173
+I0909 15:03:21.830837 15174 processor.cc:41] processor_tid: 15174
+I0909 15:03:21.830931 15175 processor.cc:41] processor_tid: 15175
+I0909 15:03:21.831004 15176 processor.cc:41] processor_tid: 15176
+I0909 15:03:21.831065 15177 processor.cc:41] processor_tid: 15177
+I0909 15:03:21.831161 15178 processor.cc:41] processor_tid: 15178
+I0909 15:03:21.831252 15179 processor.cc:41] processor_tid: 15179
+I0909 15:03:21.831305 15180 processor.cc:41] processor_tid: 15180
+I0909 15:03:21.831355 15181 processor.cc:41] processor_tid: 15181
+I0909 15:03:21.831440 15182 processor.cc:41] processor_tid: 15182
+I0909 15:03:21.831495 15183 processor.cc:41] processor_tid: 15183
+I0909 15:03:21.831542 15184 processor.cc:41] processor_tid: 15184
+I0909 15:03:21.831636 15185 processor.cc:41] processor_tid: 15185
+I0909 15:03:21.831722 15186 processor.cc:41] processor_tid: 15186
+I0909 15:03:21.831777 15187 processor.cc:41] processor_tid: 15187
+I0909 15:03:21.831862 15188 processor.cc:41] processor_tid: 15188
+I0909 15:03:21.831869 15171 init.cc:103] Register exit handle succ.
+I0909 15:03:21.885638 15171 talker.cc:42] talker sent a message!
+I0909 15:03:22.885740 15171 talker.cc:42] talker sent a message!
+I0909 15:03:23.885753 15171 talker.cc:42] talker sent a message!
+I0909 15:03:24.885743 15171 talker.cc:42] talker sent a message!
+I0909 15:03:25.885737 15171 talker.cc:42] talker sent a message!
+I0909 15:03:26.885746 15171 talker.cc:42] talker sent a message!
+I0909 15:03:27.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:03:28.885743 15171 talker.cc:42] talker sent a message!
+I0909 15:03:29.885726 15171 talker.cc:42] talker sent a message!
+I0909 15:03:30.885747 15171 talker.cc:42] talker sent a message!
+I0909 15:03:31.885756 15171 talker.cc:42] talker sent a message!
+I0909 15:03:32.885798 15171 talker.cc:42] talker sent a message!
+I0909 15:03:33.885800 15171 talker.cc:42] talker sent a message!
+I0909 15:03:34.885802 15171 talker.cc:42] talker sent a message!
+I0909 15:03:35.885800 15171 talker.cc:42] talker sent a message!
+I0909 15:03:36.885735 15171 talker.cc:42] talker sent a message!
+I0909 15:03:37.885802 15171 talker.cc:42] talker sent a message!
+I0909 15:03:38.885747 15171 talker.cc:42] talker sent a message!
+I0909 15:03:39.885798 15171 talker.cc:42] talker sent a message!
+I0909 15:03:40.885797 15171 talker.cc:42] talker sent a message!
+I0909 15:03:41.885784 15171 talker.cc:42] talker sent a message!
+I0909 15:03:42.885797 15171 talker.cc:42] talker sent a message!
+I0909 15:03:43.885785 15171 talker.cc:42] talker sent a message!
+I0909 15:03:44.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:03:45.885747 15171 talker.cc:42] talker sent a message!
+I0909 15:03:46.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:03:47.885753 15171 talker.cc:42] talker sent a message!
+I0909 15:03:48.885738 15171 talker.cc:42] talker sent a message!
+I0909 15:03:49.885740 15171 talker.cc:42] talker sent a message!
+I0909 15:03:50.885735 15171 talker.cc:42] talker sent a message!
+I0909 15:03:51.885800 15171 talker.cc:42] talker sent a message!
+I0909 15:03:52.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:03:53.885744 15171 talker.cc:42] talker sent a message!
+I0909 15:03:54.885798 15171 talker.cc:42] talker sent a message!
+I0909 15:03:55.885748 15171 talker.cc:42] talker sent a message!
+I0909 15:03:56.885743 15171 talker.cc:42] talker sent a message!
+I0909 15:03:57.885816 15171 talker.cc:42] talker sent a message!
+I0909 15:03:58.885742 15171 talker.cc:42] talker sent a message!
+I0909 15:03:59.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:04:00.885802 15171 talker.cc:42] talker sent a message!
+I0909 15:04:01.885798 15171 talker.cc:42] talker sent a message!
+I0909 15:04:02.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:04:03.885773 15171 talker.cc:42] talker sent a message!
+I0909 15:04:04.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:04:05.885819 15171 talker.cc:42] talker sent a message!
+I0909 15:04:06.885742 15171 talker.cc:42] talker sent a message!
+I0909 15:04:07.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:04:08.885798 15171 talker.cc:42] talker sent a message!
+I0909 15:04:09.885756 15171 talker.cc:42] talker sent a message!
+I0909 15:04:10.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:04:11.885773 15171 talker.cc:42] talker sent a message!
+I0909 15:04:12.885809 15171 talker.cc:42] talker sent a message!
+I0909 15:04:13.885802 15171 talker.cc:42] talker sent a message!
+I0909 15:04:14.885742 15171 talker.cc:42] talker sent a message!
+I0909 15:04:15.885776 15171 talker.cc:42] talker sent a message!
+I0909 15:04:16.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:04:17.885743 15171 talker.cc:42] talker sent a message!
+I0909 15:04:18.885748 15171 talker.cc:42] talker sent a message!
+I0909 15:04:19.885810 15171 talker.cc:42] talker sent a message!
+I0909 15:04:20.885816 15171 talker.cc:42] talker sent a message!
+I0909 15:04:21.885746 15171 talker.cc:42] talker sent a message!
+I0909 15:04:22.885809 15171 talker.cc:42] talker sent a message!
+I0909 15:04:23.885804 15171 talker.cc:42] talker sent a message!
+I0909 15:04:24.885799 15171 talker.cc:42] talker sent a message!
+I0909 15:04:25.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:04:26.885740 15171 talker.cc:42] talker sent a message!
+I0909 15:04:27.885800 15171 talker.cc:42] talker sent a message!
+I0909 15:04:28.885814 15171 talker.cc:42] talker sent a message!
+I0909 15:04:29.885809 15171 talker.cc:42] talker sent a message!
+I0909 15:04:30.885797 15171 talker.cc:42] talker sent a message!
+I0909 15:04:31.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:04:32.885803 15171 talker.cc:42] talker sent a message!
+I0909 15:04:33.885740 15171 talker.cc:42] talker sent a message!
+I0909 15:04:34.885797 15171 talker.cc:42] talker sent a message!
+I0909 15:04:35.885740 15171 talker.cc:42] talker sent a message!
+I0909 15:04:36.885798 15171 talker.cc:42] talker sent a message!
+I0909 15:04:37.885798 15171 talker.cc:42] talker sent a message!
+I0909 15:04:38.885804 15171 talker.cc:42] talker sent a message!
+I0909 15:04:39.885746 15171 talker.cc:42] talker sent a message!
+I0909 15:04:40.885776 15171 talker.cc:42] talker sent a message!
+I0909 15:04:41.885813 15171 talker.cc:42] talker sent a message!
+I0909 15:04:42.885748 15171 talker.cc:42] talker sent a message!
+I0909 15:04:43.885802 15171 talker.cc:42] talker sent a message!
+I0909 15:04:44.885756 15171 talker.cc:42] talker sent a message!
+I0909 15:04:45.885774 15171 talker.cc:42] talker sent a message!
+I0909 15:04:46.885777 15171 talker.cc:42] talker sent a message!
+I0909 15:04:47.885804 15171 talker.cc:42] talker sent a message!
+I0909 15:04:48.885792 15171 talker.cc:42] talker sent a message!
+I0909 15:04:49.885774 15171 talker.cc:42] talker sent a message!
+I0909 15:04:50.885753 15171 talker.cc:42] talker sent a message!
+I0909 15:04:51.885744 15171 talker.cc:42] talker sent a message!
+I0909 15:04:52.885776 15171 talker.cc:42] talker sent a message!
+I0909 15:04:53.885759 15171 talker.cc:42] talker sent a message!
+I0909 15:04:54.885746 15171 talker.cc:42] talker sent a message!
+I0909 15:04:55.885778 15171 talker.cc:42] talker sent a message!
+I0909 15:04:56.885800 15171 talker.cc:42] talker sent a message!
+I0909 15:04:57.885848 15171 talker.cc:42] talker sent a message!
+I0909 15:04:58.885763 15171 talker.cc:42] talker sent a message!
+I0909 15:04:59.885803 15171 talker.cc:42] talker sent a message!
+I0909 15:05:00.885761 15171 talker.cc:42] talker sent a message!
+I0909 15:05:01.885807 15171 talker.cc:42] talker sent a message!
+I0909 15:05:02.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:05:03.885792 15171 talker.cc:42] talker sent a message!
+I0909 15:05:04.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:05:05.885797 15171 talker.cc:42] talker sent a message!
+I0909 15:05:06.885802 15171 talker.cc:42] talker sent a message!
+I0909 15:05:07.886816 15171 talker.cc:42] talker sent a message!
+I0909 15:05:08.885792 15171 talker.cc:42] talker sent a message!
+I0909 15:05:09.885875 15171 talker.cc:42] talker sent a message!
+I0909 15:05:10.885823 15171 talker.cc:42] talker sent a message!
+I0909 15:05:11.885812 15171 talker.cc:42] talker sent a message!
+I0909 15:05:12.885834 15171 talker.cc:42] talker sent a message!
+I0909 15:05:13.885794 15171 talker.cc:42] talker sent a message!
+I0909 15:05:14.885803 15171 talker.cc:42] talker sent a message!
+I0909 15:05:15.885812 15171 talker.cc:42] talker sent a message!
+I0909 15:05:16.885857 15171 talker.cc:42] talker sent a message!
+I0909 15:05:17.885865 15171 talker.cc:42] talker sent a message!
+I0909 15:05:18.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:05:19.885864 15171 talker.cc:42] talker sent a message!
+I0909 15:05:20.885809 15171 talker.cc:42] talker sent a message!
+I0909 15:05:21.885805 15171 talker.cc:42] talker sent a message!
+I0909 15:05:22.885874 15171 talker.cc:42] talker sent a message!
+I0909 15:05:23.885802 15171 talker.cc:42] talker sent a message!
+I0909 15:05:24.885800 15171 talker.cc:42] talker sent a message!
+I0909 15:05:25.885859 15171 talker.cc:42] talker sent a message!
+I0909 15:05:26.885830 15171 talker.cc:42] talker sent a message!
+I0909 15:05:27.885812 15171 talker.cc:42] talker sent a message!
+I0909 15:05:28.885733 15171 talker.cc:42] talker sent a message!
+I0909 15:05:29.885797 15171 talker.cc:42] talker sent a message!
+I0909 15:05:30.885830 15171 talker.cc:42] talker sent a message!
+I0909 15:05:31.885840 15171 talker.cc:42] talker sent a message!
+I0909 15:05:32.885774 15171 talker.cc:42] talker sent a message!
+I0909 15:05:33.885879 15171 talker.cc:42] talker sent a message!
+I0909 15:05:34.885879 15171 talker.cc:42] talker sent a message!
+I0909 15:05:35.885831 15171 talker.cc:42] talker sent a message!
+I0909 15:05:36.885875 15171 talker.cc:42] talker sent a message!

@@ -1,0 +1,25 @@
+Log file created at: 2020/09/09 17:25:11
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0909 17:25:11.320587 28914 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0909 17:25:11.321528 28917 processor.cc:41] processor_tid: 28917
+I0909 17:25:11.321754 28918 processor.cc:41] processor_tid: 28918
+I0909 17:25:11.321995 28919 processor.cc:41] processor_tid: 28919
+I0909 17:25:11.322367 28920 processor.cc:41] processor_tid: 28920
+I0909 17:25:11.322654 28921 processor.cc:41] processor_tid: 28921
+I0909 17:25:11.322849 28922 processor.cc:41] processor_tid: 28922
+I0909 17:25:11.323312 28923 processor.cc:41] processor_tid: 28923
+I0909 17:25:11.323514 28924 processor.cc:41] processor_tid: 28924
+I0909 17:25:11.323897 28925 processor.cc:41] processor_tid: 28925
+I0909 17:25:11.325305 28926 processor.cc:41] processor_tid: 28926
+I0909 17:25:11.326033 28927 processor.cc:41] processor_tid: 28927
+I0909 17:25:11.326251 28928 processor.cc:41] processor_tid: 28928
+I0909 17:25:11.330011 28929 processor.cc:41] processor_tid: 28929
+I0909 17:25:11.331889 28930 processor.cc:41] processor_tid: 28930
+I0909 17:25:11.334019 28931 processor.cc:41] processor_tid: 28931
+I0909 17:25:11.335393 28932 processor.cc:41] processor_tid: 28932
+I0909 17:25:11.335436 28914 init.cc:103] Register exit handle succ.
+I0909 17:25:11.345314 28914 module_controller.cc:65] Start initialize dag: /apollo/modules/drivers/velodyne/dag/velodyne.dag
+I0909 17:25:11.346194 28914 class_loader.cc:37] Begin LoadLibrary: /apollo/bazel-bin/modules/drivers/velodyne/driver/libvelodyne_driver_component.so
+E0909 17:25:11.977455 28914 module_controller.cc:87] Path does not exist: /apollo/bazel-bin/modules/drivers/velodyne/parser/libvelodyne_convert_component.so
+E0909 17:25:11.977612 28914 module_controller.cc:67] Failed to load module: /apollo/modules/drivers/velodyne/dag/velodyne.dag

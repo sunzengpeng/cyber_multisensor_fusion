@@ -1,0 +1,14 @@
+Log file created at: 2020/09/14 15:34:59
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0914 15:34:59.497776  7188 global_data.cc:155] host ip: 192.168.1.68
+W0914 15:34:59.498423  7188 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0914 15:34:59.498556  7194 processor.cc:41] processor_tid: 7194
+I0914 15:34:59.498680  7195 processor.cc:41] processor_tid: 7195
+I0914 15:34:59.498790  7196 processor.cc:41] processor_tid: 7196
+I0914 15:34:59.498876  7197 processor.cc:41] processor_tid: 7197
+I0914 15:34:59.498924  7198 processor.cc:41] processor_tid: 7198
+I0914 15:34:59.499485  7199 processor.cc:41] processor_tid: 7199
+I0914 15:34:59.499552  7200 processor.cc:41] processor_tid: 7200
+I0914 15:34:59.503584  7201 processor.cc:41] processor_tid: 7201
+I0914 15:34:59.503793  7202 processor.cc:41] processor_tid: 7202

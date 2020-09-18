@@ -1,0 +1,23 @@
+Log file created at: 2020/09/10 09:16:50
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0910 09:16:50.445207  6910 global_data.cc:155] host ip: 192.168.1.102
+W0910 09:16:50.445744  6910 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0910 09:16:50.445837  6914 processor.cc:41] processor_tid: 6914
+I0910 09:16:50.445883  6915 processor.cc:41] processor_tid: 6915
+I0910 09:16:50.445930  6916 processor.cc:41] processor_tid: 6916
+I0910 09:16:50.445976  6917 processor.cc:41] processor_tid: 6917
+I0910 09:16:50.446025  6918 processor.cc:41] processor_tid: 6918
+I0910 09:16:50.446070  6919 processor.cc:41] processor_tid: 6919
+I0910 09:16:50.446117  6920 processor.cc:41] processor_tid: 6920
+I0910 09:16:50.446208  6921 processor.cc:41] processor_tid: 6921
+I0910 09:16:50.454167  6922 processor.cc:41] processor_tid: 6922
+I0910 09:16:50.454252  6923 processor.cc:41] processor_tid: 6923
+I0910 09:16:50.454299  6924 processor.cc:41] processor_tid: 6924
+I0910 09:16:50.454341  6925 processor.cc:41] processor_tid: 6925
+I0910 09:16:50.454386  6926 processor.cc:41] processor_tid: 6926
+I0910 09:16:50.454444  6927 processor.cc:41] processor_tid: 6927
+I0910 09:16:50.454488  6928 processor.cc:41] processor_tid: 6928
+I0910 09:16:50.454538  6910 init.cc:103] Register exit handle succ.
+I0910 09:16:50.454528  6929 processor.cc:41] processor_tid: 6929
+I0910 09:17:04.101521  6910 scheduler.cc:54] create croutine: Visualizer-PointCloud2_/apollo/sensor/rs16/PointCloud2

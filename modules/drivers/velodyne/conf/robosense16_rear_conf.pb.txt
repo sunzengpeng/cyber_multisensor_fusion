@@ -1,0 +1,13 @@
+frame_id: "robosense16_rear"
+convert_channel_name: "/diamond/sensor/lidar/rear/PointCloud2"
+scan_channel: "/apollo/sensor/robosense16_rear/scan"
+rpm: 600.0
+model: RS16
+mode: STRONGEST
+max_range: 100.0
+min_range: 2.0
+max_angle: 360
+min_angle: 0
+dev_ip: "192.168.1.206"
+msop_port: 6696
+difop_port: 7786

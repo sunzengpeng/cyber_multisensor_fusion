@@ -1,0 +1,42 @@
+Log file created at: 2020/09/10 09:56:23
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0910 09:56:23.510254  9224 class_loader_utility.h:78] registerclass:VelodyneDriverComponent,apollo::cyber::ComponentBase,/apollo/bazel-bin/modules/drivers/velodyne/driver/libvelodyne_driver_component.so
+I0910 09:56:23.516506  9224 velodyne_driver_component.cc:34] Velodyne driver component init
+I0910 09:56:23.518013  9224 velodyne_driver_component.cc:40] Velodyne config: frame_id: "robosense16_front"
+scan_channel: "/apollo/sensor/robosense16_front/scan"
+rpm: 600
+model: RS16
+max_range: 100
+min_range: 2
+max_angle: 360
+min_angle: 0
+convert_channel_name: "/diamond/sensor/lidar/front/PointCloud2"
+mode: STRONGEST
+dev_ip: "192.168.1.200"
+msop_port: 6699
+difop_port: 7788
+W0910 09:56:23.521628  9224 driver.cc:234] invalid prefix angle, prefix_angle must be between 100 and 35900
+I0910 09:56:23.521668  9224 rsinput.cc:51] [input] device IP: 192.168.1.200
+I0910 09:56:23.521708  9224 rsinput.cc:60] 6699, difop port: 7788
+I0910 09:56:23.521718  9224 rsinput.cc:78] [input] device ip: 192.168.1.200
+I0910 09:56:23.524505  9224 rslidar_decoder.cc:179] [RS_decoder][param][INFO] init lidar type: RS16, npkts: 75, rpm: 600, max_distance: 100, min_distance: 2, star angle: 0, end angle: 36000, cut angle: -1
+I0910 09:56:23.524770  9224 velodyne_driver_component.cc:34] Velodyne driver component init
+I0910 09:56:23.524912  9224 velodyne_driver_component.cc:40] Velodyne config: frame_id: "robosense16_rear"
+scan_channel: "/apollo/sensor/robosense16_rear/scan"
+rpm: 600
+model: RS16
+max_range: 100
+min_range: 2
+max_angle: 360
+min_angle: 0
+convert_channel_name: "/diamond/sensor/lidar/rear/PointCloud2"
+mode: STRONGEST
+dev_ip: "192.168.1.206"
+msop_port: 6696
+difop_port: 7786
+W0910 09:56:23.526278  9224 driver.cc:234] invalid prefix angle, prefix_angle must be between 100 and 35900
+I0910 09:56:23.526293  9224 rsinput.cc:51] [input] device IP: 192.168.1.206
+I0910 09:56:23.526304  9224 rsinput.cc:60] 6696, difop port: 7786
+I0910 09:56:23.526311  9224 rsinput.cc:78] [input] device ip: 192.168.1.206
+I0910 09:56:23.528762  9224 rslidar_decoder.cc:179] [RS_decoder][param][INFO] init lidar type: RS16, npkts: 75, rpm: 600, max_distance: 100, min_distance: 2, star angle: 0, end angle: 36000, cut angle: -1

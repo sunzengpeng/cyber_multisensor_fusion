@@ -1,0 +1,109 @@
+Log file created at: 2020/09/11 14:14:04
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0911 14:14:04.649580  8631 global_data.cc:155] host ip: 192.168.1.68
+W0911 14:14:04.650923  8631 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0911 14:14:04.651139  8633 processor.cc:41] processor_tid: 8633
+I0911 14:14:04.651274  8634 processor.cc:41] processor_tid: 8634
+I0911 14:14:04.651402  8635 processor.cc:41] processor_tid: 8635
+I0911 14:14:04.652999  8636 processor.cc:41] processor_tid: 8636
+I0911 14:14:04.653138  8637 processor.cc:41] processor_tid: 8637
+I0911 14:14:04.653290  8638 processor.cc:41] processor_tid: 8638
+I0911 14:14:04.653421  8639 processor.cc:41] processor_tid: 8639
+I0911 14:14:04.654098  8640 processor.cc:41] processor_tid: 8640
+I0911 14:14:04.654208  8641 processor.cc:41] processor_tid: 8641
+I0911 14:14:04.654367  8642 processor.cc:41] processor_tid: 8642
+I0911 14:14:04.654489  8643 processor.cc:41] processor_tid: 8643
+I0911 14:14:04.654593  8644 processor.cc:41] processor_tid: 8644
+I0911 14:14:04.654704  8645 processor.cc:41] processor_tid: 8645
+I0911 14:14:04.654825  8646 processor.cc:41] processor_tid: 8646
+I0911 14:14:04.655194  8647 processor.cc:41] processor_tid: 8647
+I0911 14:14:04.655292  8648 processor.cc:41] processor_tid: 8648
+I0911 14:14:04.655326  8631 init.cc:103] Register exit handle succ.
+I0911 14:14:04.669060  8631 scheduler.cc:54] create croutine: listener_channel/chatter
+I0911 14:15:38.228678  8635 listener.cc:25] Received message seq-> 1
+I0911 14:15:38.228719  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:39.228004  8635 listener.cc:25] Received message seq-> 2
+I0911 14:15:39.228031  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:40.227988  8635 listener.cc:25] Received message seq-> 3
+I0911 14:15:40.228013  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:41.227970  8635 listener.cc:25] Received message seq-> 4
+I0911 14:15:41.227998  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:42.227978  8635 listener.cc:25] Received message seq-> 5
+I0911 14:15:42.228008  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:43.228014  8635 listener.cc:25] Received message seq-> 6
+I0911 14:15:43.228056  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:44.227946  8635 listener.cc:25] Received message seq-> 7
+I0911 14:15:44.227972  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:45.227986  8635 listener.cc:25] Received message seq-> 8
+I0911 14:15:45.228013  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:46.227996  8635 listener.cc:25] Received message seq-> 9
+I0911 14:15:46.228024  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:47.227941  8635 listener.cc:25] Received message seq-> 10
+I0911 14:15:47.227967  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:48.227957  8635 listener.cc:25] Received message seq-> 11
+I0911 14:15:48.227988  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:49.227943  8635 listener.cc:25] Received message seq-> 12
+I0911 14:15:49.227968  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:50.228062  8635 listener.cc:25] Received message seq-> 13
+I0911 14:15:50.228091  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:51.227998  8635 listener.cc:25] Received message seq-> 14
+I0911 14:15:51.228024  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:52.227964  8635 listener.cc:25] Received message seq-> 15
+I0911 14:15:52.227991  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:53.228101  8635 listener.cc:25] Received message seq-> 16
+I0911 14:15:53.228148  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:54.228027  8635 listener.cc:25] Received message seq-> 17
+I0911 14:15:54.228057  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:55.228054  8635 listener.cc:25] Received message seq-> 18
+I0911 14:15:55.228087  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:56.228009  8635 listener.cc:25] Received message seq-> 19
+I0911 14:15:56.228047  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:57.227977  8635 listener.cc:25] Received message seq-> 20
+I0911 14:15:57.228001  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:58.227977  8635 listener.cc:25] Received message seq-> 21
+I0911 14:15:58.228008  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:15:59.228006  8635 listener.cc:25] Received message seq-> 22
+I0911 14:15:59.228044  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:00.227986  8635 listener.cc:25] Received message seq-> 23
+I0911 14:16:00.228011  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:01.227954  8635 listener.cc:25] Received message seq-> 24
+I0911 14:16:01.227980  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:02.228055  8635 listener.cc:25] Received message seq-> 25
+I0911 14:16:02.228089  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:03.227988  8635 listener.cc:25] Received message seq-> 26
+I0911 14:16:03.228016  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:04.227967  8635 listener.cc:25] Received message seq-> 27
+I0911 14:16:04.228000  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:05.227973  8635 listener.cc:25] Received message seq-> 28
+I0911 14:16:05.228003  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:06.228003  8635 listener.cc:25] Received message seq-> 29
+I0911 14:16:06.228027  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:07.228008  8635 listener.cc:25] Received message seq-> 30
+I0911 14:16:07.228035  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:08.227952  8635 listener.cc:25] Received message seq-> 31
+I0911 14:16:08.227988  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:09.228087  8635 listener.cc:25] Received message seq-> 32
+I0911 14:16:09.228119  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:10.228014  8635 listener.cc:25] Received message seq-> 33
+I0911 14:16:10.228039  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:11.228000  8635 listener.cc:25] Received message seq-> 34
+I0911 14:16:11.228029  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:12.227975  8635 listener.cc:25] Received message seq-> 35
+I0911 14:16:12.228013  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:13.228022  8635 listener.cc:25] Received message seq-> 36
+I0911 14:16:13.228051  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:14.227977  8635 listener.cc:25] Received message seq-> 37
+I0911 14:16:14.228006  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:15.227962  8635 listener.cc:25] Received message seq-> 38
+I0911 14:16:15.227986  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:16.227993  8635 listener.cc:25] Received message seq-> 39
+I0911 14:16:16.228018  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:17.228010  8635 listener.cc:25] Received message seq-> 40
+I0911 14:16:17.228035  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:18.228014  8635 listener.cc:25] Received message seq-> 41
+I0911 14:16:18.228040  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:19.227953  8635 listener.cc:25] Received message seq-> 42
+I0911 14:16:19.227984  8635 listener.cc:27] msgcontent->Hello, apollo!
+I0911 14:16:20.227979  8635 listener.cc:25] Received message seq-> 43
+I0911 14:16:20.228008  8635 listener.cc:27] msgcontent->Hello, apollo!

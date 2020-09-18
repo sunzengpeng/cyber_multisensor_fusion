@@ -1,0 +1,44 @@
+Log file created at: 2020/09/09 15:21:54
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0909 15:21:54.026938 16638 global_data.cc:155] host ip: 192.168.1.113
+W0909 15:21:54.028762 16638 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0909 15:21:54.029079 16640 processor.cc:41] processor_tid: 16640
+I0909 15:21:54.029266 16641 processor.cc:41] processor_tid: 16641
+I0909 15:21:54.029434 16642 processor.cc:41] processor_tid: 16642
+I0909 15:21:54.029630 16643 processor.cc:41] processor_tid: 16643
+I0909 15:21:54.029901 16644 processor.cc:41] processor_tid: 16644
+I0909 15:21:54.030136 16645 processor.cc:41] processor_tid: 16645
+I0909 15:21:54.030365 16646 processor.cc:41] processor_tid: 16646
+I0909 15:21:54.030565 16647 processor.cc:41] processor_tid: 16647
+I0909 15:21:54.030802 16648 processor.cc:41] processor_tid: 16648
+I0909 15:21:54.030990 16649 processor.cc:41] processor_tid: 16649
+I0909 15:21:54.031167 16650 processor.cc:41] processor_tid: 16650
+I0909 15:21:54.031342 16651 processor.cc:41] processor_tid: 16651
+I0909 15:21:54.031594 16652 processor.cc:41] processor_tid: 16652
+I0909 15:21:54.031797 16653 processor.cc:41] processor_tid: 16653
+I0909 15:21:54.032081 16654 processor.cc:41] processor_tid: 16654
+I0909 15:21:54.032263 16655 processor.cc:41] processor_tid: 16655
+I0909 15:21:54.032289 16638 init.cc:103] Register exit handle succ.
+I0909 15:21:54.053787 16638 talker.cc:47] talker sent a message!
+I0909 15:21:55.054837 16638 talker.cc:47] talker sent a message!
+I0909 15:21:56.053910 16638 talker.cc:47] talker sent a message!
+I0909 15:21:57.053918 16638 talker.cc:47] talker sent a message!
+I0909 15:21:58.053916 16638 talker.cc:47] talker sent a message!
+I0909 15:21:59.054002 16638 talker.cc:47] talker sent a message!
+I0909 15:22:00.053908 16638 talker.cc:47] talker sent a message!
+I0909 15:22:01.053997 16638 talker.cc:47] talker sent a message!
+I0909 15:22:02.053993 16638 talker.cc:47] talker sent a message!
+I0909 15:22:03.053925 16638 talker.cc:47] talker sent a message!
+I0909 15:22:04.053995 16638 talker.cc:47] talker sent a message!
+I0909 15:22:05.053953 16638 talker.cc:47] talker sent a message!
+I0909 15:22:06.053907 16638 talker.cc:47] talker sent a message!
+I0909 15:22:07.053922 16638 talker.cc:47] talker sent a message!
+I0909 15:22:08.053910 16638 talker.cc:47] talker sent a message!
+I0909 15:22:09.053910 16638 talker.cc:47] talker sent a message!
+I0909 15:22:10.053925 16638 talker.cc:47] talker sent a message!
+I0909 15:22:11.053913 16638 talker.cc:47] talker sent a message!
+I0909 15:22:12.053920 16638 talker.cc:47] talker sent a message!
+I0909 15:22:13.053926 16638 talker.cc:47] talker sent a message!
+I0909 15:22:14.053918 16638 talker.cc:47] talker sent a message!
+I0909 15:22:15.053916 16638 talker.cc:47] talker sent a message!

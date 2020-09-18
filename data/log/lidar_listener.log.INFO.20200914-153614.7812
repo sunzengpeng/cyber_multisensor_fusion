@@ -1,0 +1,23 @@
+Log file created at: 2020/09/14 15:36:14
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0914 15:36:14.606981  7812 global_data.cc:155] host ip: 192.168.1.68
+W0914 15:36:14.607451  7812 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0914 15:36:14.607547  7818 processor.cc:41] processor_tid: 7818
+I0914 15:36:14.607604  7819 processor.cc:41] processor_tid: 7819
+I0914 15:36:14.607693  7820 processor.cc:41] processor_tid: 7820
+I0914 15:36:14.607729  7821 processor.cc:41] processor_tid: 7821
+I0914 15:36:14.607775  7822 processor.cc:41] processor_tid: 7822
+I0914 15:36:14.607815  7823 processor.cc:41] processor_tid: 7823
+I0914 15:36:14.608131  7824 processor.cc:41] processor_tid: 7824
+I0914 15:36:14.608172  7825 processor.cc:41] processor_tid: 7825
+I0914 15:36:14.608256  7826 processor.cc:41] processor_tid: 7826
+I0914 15:36:14.608299  7827 processor.cc:41] processor_tid: 7827
+I0914 15:36:14.608384  7828 processor.cc:41] processor_tid: 7828
+I0914 15:36:14.608418  7829 processor.cc:41] processor_tid: 7829
+I0914 15:36:14.608490  7830 processor.cc:41] processor_tid: 7830
+I0914 15:36:14.608520  7831 processor.cc:41] processor_tid: 7831
+I0914 15:36:14.608556  7832 processor.cc:41] processor_tid: 7832
+I0914 15:36:14.608634  7833 processor.cc:41] processor_tid: 7833
+I0914 15:36:14.608639  7812 init.cc:103] Register exit handle succ.
+I0914 15:36:14.614347  7812 scheduler.cc:54] create croutine: listener_/diamond/sensor/lidar/front/PointCloud2

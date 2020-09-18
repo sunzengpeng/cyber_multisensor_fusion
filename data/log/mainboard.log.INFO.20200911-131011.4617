@@ -1,0 +1,29 @@
+Log file created at: 2020/09/11 13:10:11
+Running on machine: in_cyber_docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0911 13:10:11.915664  4617 scheduler_factory.cc:63] No sched conf found, use default conf.
+I0911 13:10:11.915813  4619 processor.cc:41] processor_tid: 4619
+I0911 13:10:11.915868  4620 processor.cc:41] processor_tid: 4620
+I0911 13:10:11.915947  4621 processor.cc:41] processor_tid: 4621
+I0911 13:10:11.915994  4622 processor.cc:41] processor_tid: 4622
+I0911 13:10:11.916035  4623 processor.cc:41] processor_tid: 4623
+I0911 13:10:11.916122  4624 processor.cc:41] processor_tid: 4624
+I0911 13:10:11.916164  4625 processor.cc:41] processor_tid: 4625
+I0911 13:10:11.916206  4626 processor.cc:41] processor_tid: 4626
+I0911 13:10:11.916265  4627 processor.cc:41] processor_tid: 4627
+I0911 13:10:11.916311  4628 processor.cc:41] processor_tid: 4628
+I0911 13:10:11.916352  4629 processor.cc:41] processor_tid: 4629
+I0911 13:10:11.916436  4630 processor.cc:41] processor_tid: 4630
+I0911 13:10:11.916476  4631 processor.cc:41] processor_tid: 4631
+I0911 13:10:11.916566  4632 processor.cc:41] processor_tid: 4632
+I0911 13:10:11.916612  4633 processor.cc:41] processor_tid: 4633
+I0911 13:10:11.916651  4634 processor.cc:41] processor_tid: 4634
+I0911 13:10:11.916662  4617 init.cc:103] Register exit handle succ.
+E0911 13:10:11.916683  4617 file.cc:73] Failed to open file /apollo/cyber/dag/robosense.dag in text mode.
+E0911 13:10:11.916724  4617 file.cc:99] Failed to open file /apollo/cyber/dag/robosense.dag in binary mode.
+I0911 13:10:11.916738  4617 module_controller.cc:65] Start initialize dag: /apollo/cyber/dag/robosense.dag
+E0911 13:10:11.916745  4617 file.cc:73] Failed to open file /apollo/cyber/dag/robosense.dag in text mode.
+E0911 13:10:11.916757  4617 file.cc:99] Failed to open file /apollo/cyber/dag/robosense.dag in binary mode.
+E0911 13:10:11.916766  4617 module_controller.cc:119] Get proto failed, file: /apollo/cyber/dag/robosense.dag
+E0911 13:10:11.916775  4617 module_controller.cc:67] Failed to load module: /apollo/cyber/dag/robosense.dag
+E0911 13:10:11.916786  4617 mainboard.cc:39] module start error.
